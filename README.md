@@ -33,13 +33,19 @@ Reactを使って作成したポモドーロ・タイマーです。FreeCodeCamp
 ---
 
 🌐 Live Demo / ライブデモ
+
 You can view the live demo of this project here:
+
 こちらでプロジェクトのライブデモをご覧いただけます:
+
 [Build 25-5 Clock](https://twentyfiveclock.netlify.app/)
 
 🧪 Project Requirements / プロジェクト要件
-This project fulfills all user stories from the freeCodeCamp Markdown Previewer.
-このプロジェクトは、freeCodeCampのMarkdown Previewerプロジェクト の全てのユーザーストーリーを満たしています。
+
+This project fulfills all user stories from the freeCodeCamp Build 25-5 Clock.
+
+このプロジェクトは、freeCodeCampのBuild 25-5 Clockプロジェクト の全てのユーザーストーリーを満たしています。
+
 
 🛠️ Tech Stack / 使用技術
 React
