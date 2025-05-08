@@ -47,20 +47,29 @@ JavaScript (ES6+)
 CSS (Flexbox)
 
 
-Marked.js (Markdown to HTML converter)
 freeCodeCamp Test Suite
+
 📦 Installation / インストール
+
 Clone this repository:
+
 このリポジトリをクローンしてください:
 
+
 git clone https://github.com/your-username/markdown-previewer.git
+
 cd markdown-previewer
+
 npm install
+
 npm run dev
+
 
 License
 
+
 ライセンス
+
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
